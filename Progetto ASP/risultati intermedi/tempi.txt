@@ -1,0 +1,98 @@
+SENZA VINCOLI
+
+Models       : 1+
+Calls        : 1
+Time         : 235.054s (Solving: 216.39s 1st Model: 215.67s Unsat: 0.00s)
+CPU Time     : 217.469s
+
+
+??????????????
+Models       : 1+
+Calls        : 1
+Time         : 545.238s (Solving: 533.95s 1st Model: 533.13s Unsat: 0.00s)
+CPU Time     : 502.969s
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 471.317s (Solving: 460.10s 1st Model: 459.40s Unsat: 0.00s)
+CPU Time     : 450.609s
+Models       : 1+
+Calls        : 1
+Time         : 455.292s (Solving: 435.01s 1st Model: 434.26s Unsat: 0.00s)
+CPU Time     : 426.688s
+
+
+
+
+
+PRIMO VINCOLO SOFT
+
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 1955.613s (Solving: 1944.18s 1st Model: 1943.45s Unsat: 0.00s)
+CPU Time     : 1733.469s
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 1230.102s (Solving: 1218.67s 1st Model: 1217.98s Unsat: 0.00s)
+CPU Time     : 1161.750s
+
+SECONDO VINCOLO SOFT
+
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 1617.396s (Solving: 1600.91s 1st Model: 1599.89s Unsat: 0.00s)
+CPU Time     : 1423.875s
+
+Models       : 1+
+Calls        : 1
+Time         : 930.515s (Solving: 921.67s 1st Model: 920.90s Unsat: 0.00s)
+CPU Time     : 868.984s
+
+
+TERZO
+Models       : 1+
+Calls        : 1
+Time         : 1515.686s (Solving: 1497.95s 1st Model: 1496.12s Unsat: 0.00s)
+CPU Time     : 1331.484s
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 809.614s (Solving: 799.78s 1st Model: 799.03s Unsat: 0.00s)
+CPU Time     : 778.156s
+
+QUARTO E ULTIMO
+Models       : 1+
+Calls        : 1
+Time         : 1070.398s (Solving: 1054.28s 1st Model: 1043.83s Unsat: 0.00s)
+CPU Time     : 924.562s
+
+Models       : 1+
+Calls        : 1
+Time         : 604.973s (Solving: 594.64s 1st Model: 593.92s Unsat: 0.00s)
+CPU Time     : 561.828s
+
+
+CON TUTTI VINCOLI SOFT
+
+Time         : 699.714s (Solving: 690.48s 1st Model: 689.30s Unsat: 0.00s)
+CPU Time     : 638.406s
+
+Models       : 1+
+Calls        : 1
+Time         : 733.408s (Solving: 720.33s 1st Model: 719.10s Unsat: 0.00s)
+CPU Time     : 682.344s
+
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 486.639s (Solving: 476.57s 1st Model: 475.88s Unsat: 0.00s)
+CPU Time     : 461.250s

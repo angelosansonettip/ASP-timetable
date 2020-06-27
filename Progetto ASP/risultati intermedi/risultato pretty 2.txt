@@ -1,0 +1,282 @@
+SATISFIABLE
+{'Number': 1, 'More': 'yes'}
+1
+{'Total': 858.232, 'Solve': 843.873, 'Model': 843.869, 'Unsat': 0.0, 'CPU': 1558.203}
+Generating timetable...
+
+-- SETTIMANA 1 --
+Venerdì
+        Da 1 a 2        nessuno  presentazione_master
+        Da 3 a 4        gabardi  comunicazione_pubblicitaria
+        Da 5 a 6        zanchetta        acquisizione_elaborazione_immagini_statiche
+        Da 7 a 8        muzzetto         project_management
+
+Sabato
+        Da 1 a 2        gabardi  comunicazione_pubblicitaria
+        Da 3 a 5        zanchetta        acquisizione_elaborazione_immagini_statiche
+
+-- SETTIMANA 2 --
+Venerdì
+        Da 1 a 4        zanchetta        acquisizione_elaborazione_immagini_statiche
+        Da 5 a 6        gabardi  comunicazione_pubblicitaria
+        Da 7 a 8        muzzetto         project_management
+
+Sabato
+        Da 1 a 2        pozzato  fondamenti_ict
+        Da 3 a 5        zanchetta        acquisizione_elaborazione_immagini_statiche
+
+-- SETTIMANA 3 --
+Venerdì
+        Da 1 a 2        muzzetto         project_management
+        Da 3 a 6        gabardi  comunicazione_pubblicitaria
+        Da 7 a 8        zanchetta        acquisizione_elaborazione_immagini_statiche
+
+Sabato
+        Da 1 a 2        nessuno  recupero_lezioni
+        Da 3 a 5        travostino       vincoli_giuridici
+
+-- SETTIMANA 4 --
+Venerdì
+        Da 1 a 3        vargiu   elementi_fotografia
+        Da 4 a 5        muzzetto         project_management
+        Da 6 a 8        gena     linguaggi_markup
+
+Sabato
+        Da 1 a 2        muzzetto         project_management
+        Da 3 a 5        vargiu   elementi_fotografia
+
+-- SETTIMANA 5 --
+Venerdì
+        Da 1 a 4        muzzetto         project_management
+        Da 5 a 8        gena     linguaggi_markup
+
+Sabato
+        Da 1 a 2        gabardi  comunicazione_pubblicitaria
+        Da 3 a 5        gena     linguaggi_markup
+
+-- SETTIMANA 6 --
+Venerdì
+        Da 1 a 3        gribaudo         grafica_3d
+        Da 5 a 6        gena     linguaggi_markup
+        Da 7 a 8        pozzato  fondamenti_ict
+
+Sabato
+        Da 1 a 2        gena     accessibilita_usabilita
+        Da 3 a 5        pozzato  fondamenti_ict
+
+-- SETTIMANA 7 --
+Lunedì
+        Da 1 a 3        gena     accessibilita_usabilita
+        Da 4 a 6        pozzato  fondamenti_ict
+        Da 7 a 8        gribaudo         grafica_3d
+
+Martedì
+        Da 1 a 2        pozzato  fondamenti_ict
+        Da 3 a 4        gena     linguaggi_markup
+        Da 5 a 6        gribaudo         grafica_3d
+        Da 7 a 8        vargiu   elementi_fotografia
+
+Mercoledì
+        Da 1 a 2        gabardi  comunicazione_pubblicitaria
+        Da 3 a 4        gribaudo         grafica_3d
+        Da 5 a 8        travostino       vincoli_giuridici
+
+Giovedì
+        Da 1 a 4        gena     linguaggi_markup
+        Da 5 a 8        terranova        progettazione_grafica
+
+Venerdì
+        Da 1 a 2        gribaudo         grafica_3d
+        Da 3 a 4        gena     linguaggi_markup
+        Da 5 a 6        terranova        progettazione_grafica
+        Da 7 a 8        gena     accessibilita_usabilita
+
+Sabato
+        Da 2 a 3        pozzato  fondamenti_ict
+        Da 4 a 5        gena     accessibilita_usabilita
+
+-- SETTIMANA 8 --
+Venerdì
+        Da 2 a 4        gena     accessibilita_usabilita
+        Da 5 a 8        terranova        progettazione_grafica
+
+Sabato
+        Da 1 a 2        nessuno  recupero_lezioni
+        Da 3 a 4        vargiu   elementi_fotografia
+
+-- SETTIMANA 9 --
+Venerdì
+        Da 2 a 4        gribaudo         grafica_3d
+        Da 5 a 8        lombardo         gestione_risorse_umane
+
+Sabato
+        Da 1 a 3        travostino       vincoli_giuridici
+        Da 4 a 5        lombardo         gestione_risorse_umane
+
+-- SETTIMANA 10 --
+Venerdì
+        Da 1 a 2        muzzetto         marketing_digitale
+        Da 3 a 4        lombardo         gestione_risorse_umane
+        Da 5 a 6        giordani         strumenti_metodi_interazione_social
+        Da 7 a 8        gribaudo         grafica_3d
+
+Sabato
+        Da 1 a 3        muzzetto         marketing_digitale
+        Da 4 a 5        mazzei   progettazione_basi_dati
+
+-- SETTIMANA 11 --
+Venerdì
+        Da 1 a 2        gribaudo         grafica_3d
+        Da 3 a 5        micalizio        ambienti_sviluppo_linguaggi_clientside_web
+        Da 6 a 8        giordani         strumenti_metodi_interazione_social
+
+Sabato
+        Da 1 a 2        ghidelli         acquisizione_elaborazione_immagini_digitali
+        Da 3 a 5        muzzetto         marketing_digitale
+
+-- SETTIMANA 12 --
+Venerdì
+        Da 1 a 2        gena     accessibilita_usabilita
+        Da 3 a 5        mazzei   progettazione_basi_dati
+        Da 7 a 8        gribaudo         grafica_3d
+
+Sabato
+        Da 1 a 4        ghidelli         acquisizione_elaborazione_immagini_digitali
+
+-- SETTIMANA 13 --
+Venerdì
+        Da 1 a 3        mazzei   progettazione_basi_dati
+        Da 4 a 5        micalizio        ambienti_sviluppo_linguaggi_clientside_web
+        Da 6 a 8        giordani         strumenti_metodi_interazione_social
+
+Sabato
+        Da 1 a 2        ghidelli         acquisizione_elaborazione_immagini_digitali
+        Da 3 a 4        lombardo         gestione_risorse_umane
+
+-- SETTIMANA 14 --
+Venerdì
+        Da 1 a 3        valle    acquisizione_elaborazione_suono
+        Da 4 a 5        giordani         strumenti_metodi_interazione_social
+        Da 6 a 8        mazzei   progettazione_basi_dati
+
+Sabato
+        Da 1 a 3        micalizio        ambienti_sviluppo_linguaggi_clientside_web
+        Da 4 a 5        ghidelli         acquisizione_elaborazione_immagini_digitali
+
+-- SETTIMANA 15 --
+Venerdì
+        Da 1 a 2        boiolo   risorse_digitali
+        Da 3 a 4        giordani         strumenti_metodi_interazione_social
+        Da 5 a 6        valle    acquisizione_elaborazione_suono
+        Da 7 a 8        mazzei   progettazione_basi_dati
+
+Sabato
+        Da 1 a 3        ghidelli         acquisizione_elaborazione_immagini_digitali
+        Da 4 a 5        mazzei   progettazione_basi_dati
+
+-- SETTIMANA 16 --
+Lunedì
+        Da 1 a 2        muzzetto         marketing_digitale
+        Da 3 a 4        micalizio        ambienti_sviluppo_linguaggi_clientside_web
+        Da 5 a 6        mazzei   progettazione_basi_dati
+        Da 7 a 8        santangelo       semiologia_multimedialita
+
+Martedì
+        Da 2 a 4        mazzei   progettazione_basi_dati
+        Da 5 a 6        giordani         strumenti_metodi_interazione_social
+        Da 7 a 8        taddeo   crossmedia
+
+Mercoledì
+        Da 1 a 4        micalizio        ambienti_sviluppo_linguaggi_clientside_web
+        Da 5 a 8        santangelo       semiologia_multimedialita
+
+Giovedì
+        Da 1 a 4        micalizio        ambienti_sviluppo_linguaggi_clientside_web
+        Da 5 a 8        taddeo   crossmedia
+
+Venerdì
+        Da 1 a 4        ghidelli         acquisizione_elaborazione_immagini_digitali
+        Da 5 a 6        santangelo       semiologia_multimedialita
+        Da 7 a 8        taddeo   crossmedia
+
+Sabato
+        Da 1 a 3        valle    acquisizione_elaborazione_suono
+        Da 4 a 5        boiolo   risorse_digitali
+
+-- SETTIMANA 17 --
+Venerdì
+        Da 1 a 4        taddeo   crossmedia
+        Da 5 a 8        damiano  tecnologie_server_side
+
+Sabato
+        Da 1 a 3        ghidelli         acquisizione_elaborazione_immagini_digitali
+        Da 4 a 5        micalizio        ambienti_sviluppo_linguaggi_clientside_web
+
+-- SETTIMANA 18 --
+Venerdì
+        Da 1 a 3        suppini  introduzione_social_media
+        Da 4 a 6        pozzato  progettazione_mobile_1
+        Da 7 a 8        boiolo   risorse_digitali
+
+Sabato
+        Da 1 a 3        damiano  tecnologie_server_side
+        Da 4 a 5        boiolo   risorse_digitali
+
+-- SETTIMANA 19 --
+Venerdì
+        Da 1 a 3        damiano  tecnologie_server_side
+        Da 4 a 6        taddeo   crossmedia
+        Da 7 a 8        pozzato  progettazione_mobile_1
+
+Sabato
+        Da 1 a 4        suppini  introduzione_social_media
+
+-- SETTIMANA 20 --
+Venerdì
+        Da 1 a 4        damiano  tecnologie_server_side
+        Da 5 a 6        valle    acquisizione_elaborazione_suono
+        Da 7 a 8        pozzato  progettazione_mobile_1
+
+Sabato
+        Da 1 a 2        taddeo   crossmedia
+        Da 3 a 4        boiolo   risorse_digitali
+
+-- SETTIMANA 21 --
+Venerdì
+        Da 1 a 3        taddeo   crossmedia
+        Da 5 a 6        damiano  tecnologie_server_side
+        Da 7 a 8        santangelo       semiologia_multimedialita
+
+Sabato
+        Da 1 a 3        tomatis  gestione_qualita
+        Da 4 a 5        zanchetta        tecniche_strumenti_marketing
+
+-- SETTIMANA 22 --
+Venerdì
+        Da 1 a 3        pozzato  progettazione_mobile_1
+        Da 4 a 6        schifanella      progettazione_mobile_2
+        Da 7 a 8        tomatis  gestione_qualita
+
+Sabato
+        Da 1 a 2        suppini  introduzione_social_media
+        Da 3 a 5        tomatis  gestione_qualita
+
+-- SETTIMANA 23 --
+Venerdì
+        Da 1 a 2        tomatis  gestione_qualita
+        Da 3 a 6        damiano  tecnologie_server_side
+        Da 7 a 8        suppini  introduzione_social_media
+
+Sabato
+        Da 1 a 2        zanchetta        tecniche_strumenti_marketing
+        Da 3 a 5        schifanella      progettazione_mobile_2
+
+-- SETTIMANA 24 --
+Venerdì
+        Da 1 a 2        schifanella      progettazione_mobile_2
+        Da 3 a 5        zanchetta        tecniche_strumenti_marketing
+        Da 6 a 8        suppini  introduzione_social_media
+
+Sabato
+        Da 1 a 3        zanchetta        tecniche_strumenti_marketing
+        Da 4 a 5        schifanella      progettazione_mobile_2
